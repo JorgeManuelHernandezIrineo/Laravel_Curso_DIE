@@ -1,3 +1,33 @@
+# 🎬 CineApp - CRUD de Películas
+
+Este es el proyecto final del curso de Laravel. Consiste en un sistema de gestión de catálogo de películas con funcionalidades completas de registro, visualización, edición y eliminación.
+
+## 🚀 Tecnologías Utilizadas
+- **Framework:** Laravel 11
+- **Base de Datos:** SQLite
+- **Estilos:** Tailwind CSS (Modo Oscuro)
+- **Componentes:** Blade Components & Slots para alertas dinámicas.
+
+## 🛠️ Instalación para Revisión
+Para ejecutar este proyecto localmente y evaluar su funcionamiento, siga estos pasos:
+
+1. **Clonar el repositorio:**
+   ```bash
+   git clone [https://github.com/JorgeManuelHernandezIrineo/Laravel_Curso_DIE.git](https://github.com/JorgeManuelHernandezIrineo/Laravel_Curso_DIE.git)
+
+2. **Instalar dependencias**
+- composer install
+
+3. **Connfigurar el entorno**
+- Copia el archivo .env.example a .env.
+- Asegúrate de que DB_CONNECTION=sqlite esté configurado.
+  
+4. **Ejecutar migraciones**
+- php artisan migrate
+
+5. **Iniciar servidor**
+- php artisan serve
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
