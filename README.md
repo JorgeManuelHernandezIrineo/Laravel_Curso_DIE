@@ -30,9 +30,13 @@ Para ejecutar este proyecto localmente y evaluar su funcionamiento, siga estos p
 
 ## 📸 Capturas del Proyecto
 
-| Listado de Películas | Formulario de Registro |
-| :---: | :---: |
-| ![Index](Index_view.jpg) | ![Create](Create_view.jpg) |
+| Listado de Películas | 
+| :---: | 
+| ![Index](Index_view.jpg) | 
+
+| Formulario de Registro |
+| :---: |
+| ![Create](Create_view.jpg) |
 
 | Gestión y Edición |
 | :---: |
